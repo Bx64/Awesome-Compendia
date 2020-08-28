@@ -138,7 +138,7 @@
         * [BIND/BTC](https://www.altilly.com/market/BIND_BTC) - BIND/BTC trading pair.
         * [BIND/ETH](https://www.altilly.com/market/BIND_ETH) - BIND/ETH trading pair.
         * [BIND/ARK](https://www.altilly.com/market/BIND_ARK) - BIND/ARK trading pair.
-        * [BIND/XQR](https://www.altilly.com/market/BIND_XQR) - BIND/NEO trading pair.
+        * [BIND/XQR](https://www.altilly.com/market/BIND_XQR) - BIND/XQR trading pair.
 * [Switcheo](https://switcheo.exchange/) - Switcheo Exchange paired with NEO (currently, still NOS/NEO). Will feature BIND markets.
     * [NOS/NEO](https://switcheo.exchange/markets/NOS_NEO) - NOS/NEO trading pair.
 
