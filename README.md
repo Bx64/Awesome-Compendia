@@ -47,8 +47,8 @@
     - Compendia Validator Info - by the bobbie bunch
     - Reward Calculator Spreadsheet - by bfx
     - Reward Calculator - by cactus_1549
-    - Reward Calculator - by st3v3n
     - Reward Calculator - by maryo
+    - Reward Calculator - by st3v3n
     - Reward Calculator - by the bobbie bunch
 
 ## Compendia Resources
