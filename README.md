@@ -43,13 +43,13 @@
     
 - [Validator Tools](#validator-tools)
     - Compendia Explorer Mainnet (ARK-based) - by itsanametoo
-    - Compendia Stakes Telegram Bot - by bindie dev
-    - Compendia Validator Info - by the bobbie bunch
+    - Compendia Stakes Telegram Bot - by bindie
+    - Compendia Validator Info - by the_bobbie_bunch
     - Reward Calculator Spreadsheet - by bfx
-    - Reward Calculator - by cactus_1549
+    - Reward Calculator - by cactus1549
+    - Reward Calculator - by dutch_pool
     - Reward Calculator - by maryo
-    - Reward Calculator - by st3v3n
-    - Reward Calculator - by the bobbie bunch
+    - Reward Calculator - by the_bobbie_bunch
 
 ## Compendia Resources
 
@@ -195,11 +195,11 @@
 ***Unofficial** tools developed by Compendia validators.*
 
 * [Compendia Explorer - Mainnet](https://compendia.itsadelegatetoo.com/#/) - Mainnet Compendia explorer based on ARK, created by itsanametoo.
-* [Compendia Stakes - Telegram Bot](https://t.me/CompendiaStakes) - BIND stake monitor Telegram Bot, created by Bindie Dev.
+* [Compendia Stakes - Telegram Bot](https://t.me/CompendiaStakes) - BIND stake monitor Telegram Bot, created by bindie.
 * [Compendia Tools Website](https://compendia.arbarodelegate.eu/tools) - Compendia tools website - created by arbaro. 
 * [Compendia Validators Info](https://compendiavalidators.com) - Compendia Validator website, created by the_bobbie_bunch.
-* [Reward Calculator - BFX](https://bit.ly/3iYOOAG) - Daily BIND reward calculator, created by BFX.
-* [Reward Calculator - cactus_1549](https://compendiacalculator.online) - Daily BIND reward calculator, created by cactus_1549.
-* [Reward Calculator - dutch_pool](https://calculator.dutchpool.io/compendia) - Daily BIND reward calculator, created by the dutch_pool team.
+* [Reward Calculator - bfx](https://bit.ly/3iYOOAG) - Daily BIND reward calculator, created by bfx.
+* [Reward Calculator - cactus1549](https://compendiacalculator.online) - Daily BIND reward calculator, created by cactus1549.
+* [Reward Calculator - dutch_pool](https://calculator.dutchpool.io/compendia) - Daily BIND reward calculator, created by dutch_pool team.
 * [Reward Calculator - maryo](https://bit.ly/3ht3CqW) - Daily BIND reward calculator, created by maryo.
 * [Reward Calculator - the_bobbie_bunch](https://www.thebobbiebunch.nl/#calculator) - Daily BIND reward calculator, created by the_bobbie_bunch.
