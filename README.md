@@ -14,10 +14,10 @@
 ## Contents
 
 - [Compendia Resources](#compendia-resources)
+    - Websites*
     - GitHub
     - Mainnet
     - Testnet
-    - Websites
 
 - [Compendia Documentation](#compendia-documentation)
     - Bug Bounty & Security Reward Program
@@ -53,7 +53,7 @@
 
 ## Compendia Resources
 
-*Official Compendia Websites.*
+*Official Compendia Websites. Listed first due to relevance.*
 
 * [Compendia API Documentation](https://docs.compendia.org/api/) - Compendia API Documentation - API's expose resources and data provided by the Core Server (Node).
 * [Compendia Documentation](https://docs.compendia.org/) - Compendia Documentation Suite.
@@ -62,6 +62,7 @@
 * [Compendia Twitter](https://twitter.com/Compendia_org) - Compendia Twitter Account.
 * [Compendia Website](https://compendia.org/) - Official Compendia Website.
     * [Compendia Blog](https://compendia.org/blog/) - Official Compendia blog.
+* [nOS Chat](https://nos.chat/) - nOS-related communications website.
 * [nOS Client Website](https://nos.io/) - nOS multi-cryptocurrency wallet client.
 
 *Official Compendia GitHub.*
