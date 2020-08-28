@@ -48,8 +48,8 @@
     - Reward Calculator Spreadsheet - by bfx
     - Reward Calculator - by cactus_1549
     - Reward Calculator - by st3v3n
-    - Reward Calculator - by the bobbie bunch
     - Reward Calculator - by maryo
+    - Reward Calculator - by the bobbie bunch
 
 ## Compendia Resources
 
@@ -201,5 +201,5 @@
 * [Reward Calculator - BFX](https://bit.ly/3iYOOAG) - Daily BIND reward calculator, created by BFX.
 * [Reward Calculator - cactus_1549](https://compendiacalculator.online) - Daily BIND reward calculator, created by cactus_1549.
 * [Reward Calculator - dutch_pool](https://calculator.dutchpool.io/compendia) - Daily BIND reward calculator, created by the dutch_pool team.
-* [Reward Calculator - the_bobbie_bunch](https://www.thebobbiebunch.nl/#calculator) - Daily BIND reward calculator, created by the_bobbie_bunch.
 * [Reward Calculator - maryo](https://bit.ly/3ht3CqW) - Daily BIND reward calculator, created by maryo.
+* [Reward Calculator - the_bobbie_bunch](https://www.thebobbiebunch.nl/#calculator) - Daily BIND reward calculator, created by the_bobbie_bunch.
