@@ -27,6 +27,10 @@
     - Validators
     - Token Swap
     - Wallet
+        
+- [Exchanges](#Exchanges)
+    - Altilly
+    - Switcheo
     
 - [Mainnet API Documentation](#mainnet-api-documentation)
     - Blockchain
@@ -50,10 +54,6 @@
     - Reward Calculator - by dutch_pool
     - Reward Calculator - by maryo
     - Reward Calculator - by the_bobbie_bunch
-    
-- [Exchanges](#Exchanges)
-    - Altilly
-    - Switcheo
 
 ## Compendia Resources
 
@@ -128,6 +128,19 @@
         * [Staking](https://docs.compendia.org/guide/wallet.html#stake) - Staking.
         * [Transfer](https://docs.compendia.org/guide/wallet.html#transfer) - Transfer.
         * [Voting](https://docs.compendia.org/guide/wallet.html#vote) - Voting.
+
+## Exchanges
+
+*Exchanges where BIND can be traded.*
+
+* [Altilly](https://altilly.com/) - Altilly Exchange paired with BTC, ETH, ARK & XQR.
+    * [Asset information](https://www.altilly.com/asset/BIND) - General information about BIND and it's trading pairs.
+        * [BIND/BTC](https://www.altilly.com/market/BIND_BTC) - BIND/BTC trading pair.
+        * [BIND/ETH](https://www.altilly.com/market/BIND_ETH) - BIND/ETH trading pair.
+        * [BIND/ARK](https://www.altilly.com/market/BIND_ARK) - BIND/ARK trading pair.
+        * [BIND/XQR](https://www.altilly.com/market/BIND_XQR) - BIND/NEO trading pair.
+* [Switcheo](https://switcheo.exchange/) - Switcheo Exchange paired with NEO (currently, still NOS/NEO). Will feature BIND markets.
+    * [NOS/NEO](https://switcheo.exchange/markets/NOS_NEO) - NOS/NEO trading pair.
 
 ## Mainnet API Documentation
 
@@ -208,16 +221,3 @@
 * [Reward Calculator - dutch_pool](https://calculator.dutchpool.io/compendia) - Daily BIND reward calculator, created by dutch_pool team.
 * [Reward Calculator - maryo](https://bit.ly/3ht3CqW) - Daily BIND reward calculator, created by maryo.
 * [Reward Calculator - the_bobbie_bunch](https://www.thebobbiebunch.nl/#calculator) - Daily BIND reward calculator, created by the_bobbie_bunch.
-
-## Exchanges
-
-*Exchanges where BIND can be traded.*
-
-* [Altilly](https://altilly.com/) - Altilly Exchange paired with BTC, ETH, ARK & XQR.
-    * [Asset information](https://www.altilly.com/asset/BIND) - General information about BIND and it's trading pairs.
-        * [BIND/BTC](https://www.altilly.com/market/BIND_BTC) - BIND/BTC trading pair.
-        * [BIND/ETH](https://www.altilly.com/market/BIND_ETH) - BIND/ETH trading pair.
-        * [BIND/ARK](https://www.altilly.com/market/BIND_ARK) - BIND/ARK trading pair.
-        * [BIND/XQR](https://www.altilly.com/market/BIND_XQR) - BIND/NEO trading pair.
-* [Switcheo](https://switcheo.exchange/) - Switcheo Exchange paired with NEO (currently, still NOS/NEO). Will feature BIND markets.
-    * [NOS/NEO](https://switcheo.exchange/markets/NOS_NEO) - NOS/NEO trading pair.
