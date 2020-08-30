@@ -44,8 +44,12 @@
     - Transactions
     - Votes
     - Wallets
+
+- [Tools (Community)](#tools-community)
+    - Compendia JS - Javascript library for sending transactions - by mrmikeo
+    - Compendia Crypto - Crypto npm library for Compendia - by mrmikeo
     
-- [Validator Tools](#validator-tools)
+- [Tools (Validators)](#tools-validators)
     - Compendia Explorer Mainnet (ARK-based) - by itsanametoo
     - Compendia Stakes Telegram Bot - by bindie
     - Compendia Validator Info - by the_bobbie_bunch
@@ -208,7 +212,14 @@
         * [Retrieve A Wallet](https://docs.compendia.org/api/wallets.html#retrieve-a-wallet) - Retrieve a wallet.
         * [Search All Wallets](https://docs.compendia.org/api/wallets.html#search-all-wallets) - Search all wallets.
 
-## Validator Tools
+## Tools (Community)
+
+***Unofficial** tools developed by Compendia community members.*
+
+* [Compendia JS](https://github.com/mrmikeo/compendia-js) - Javascript library for sending transactions - by mrmikeo.
+* [Compendia Crypto](https://github.com/mrmikeo/crypto) - Compendia Crypto - Crypto npm library for Compendia - by mrmikeo
+
+## Tools (Validators)
 
 ***Unofficial** tools developed by Compendia validators.*
 
