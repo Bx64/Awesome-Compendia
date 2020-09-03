@@ -224,6 +224,7 @@
 ***Unofficial** tools developed by Compendia validators.*
 
 * [Compendia Explorer - Mainnet](https://compendia.itsadelegatetoo.com/#/) - Mainnet Compendia explorer based on ARK, created by itsanametoo.
+* [Compendia Monitor - Telegram Bot](https://t.me/compendiamonitorbot) - BIND voter & validator monitor bot, created by cactus1549.
 * [Compendia Stakes - Telegram Bot](https://t.me/CompendiaStakes) - BIND stake monitor Telegram Bot, created by bindie.
 * [Compendia Tools Website](https://compendia.arbarodelegate.eu/tools) - Compendia tools website - created by arbaro. 
 * [Compendia Validators Info](https://compendiavalidators.com) - Compendia Validator website, created by the_bobbie_bunch.
