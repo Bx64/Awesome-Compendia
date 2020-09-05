@@ -51,9 +51,11 @@
     
 - [Tools (Validators)](#tools-validators)
     - Compendia Explorer Mainnet (ARK-based) - by itsanametoo
+    - Compendia Monitor Telegram Bot - by cactus1549
     - Compendia Stakes Telegram Bot - by bindie
-    - Compendia Validator Info - by the_bobbie_bunch
-    - Reward Calculator Spreadsheet - by bfx
+    - Compendia Tools Website - by arbaro
+    - Compendia Validators Info - by the_bobbie_bunch
+    - Reward Calculator - by bfx
     - Reward Calculator - by cactus1549
     - Reward Calculator - by dutch_pool
     - Reward Calculator - by maryo
