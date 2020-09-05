@@ -239,8 +239,8 @@
 * Core Plugins
     * [Core Chameleon - tortoise_emperor](https://github.com/alessiodf/core-chameleon) - plugin that externally closes P2P port, hides IP via Tor and enables full and complete operation of relay/forger behind firewall, created by tortoise_emperor.
     * [Productivity Statistics - tortoise_emperor](https://github.com/alessiodf/productivity-statistics) - Includes statistics to delegates API endpoint to display the number of missed rounds and slots for each delegate, along with a productivity score, created by tortoise_emperor.
-    * [Round Monitor - tortoise_emperor](https://github.com/alessiodf/round-monitor) - broadcasts delegate statistics over WebSocket protocol, created by tortoise_emperor.
-    * [Universal Delegate Monitor - tortoise_emperor](https://github.com/alessiodf/universal-delegate-monitor-server) - provides in-depth forging round statistics including forging times and round positions, created by tortoise_emperor, created by tortoise_emperor.
+    * [Round Monitor - tortoise_emperor](https://github.com/alessiodf/round-monitor) - provides in-depth forging round statistics including forging times and round positions, created by tortoise_emperor, created by tortoise_emperor.
+    * [Universal Delegate Monitor - tortoise_emperor](https://github.com/alessiodf/universal-delegate-monitor-server) - broadcasts delegate statistics over WebSocket protocol, created by tortoise_emperor.
 * Reward Calculators
     * [Reward Calculator - bfx](https://bit.ly/3iYOOAG) - Daily BIND reward calculator, created by bfx.
     * [Reward Calculator - cactus1549](https://compendiacalculator.online) - Daily BIND reward calculator, created by cactus1549.
