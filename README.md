@@ -55,11 +55,17 @@
     - Compendia Stakes Telegram Bot - by bindie
     - Compendia Tools Website - by arbaro
     - Compendia Validators Info - by the_bobbie_bunch
-    - Reward Calculator - by bfx
-    - Reward Calculator - by cactus1549
-    - Reward Calculator - by dutch_pool
-    - Reward Calculator - by maryo
-    - Reward Calculator - by the_bobbie_bunch
+    - Core Plugins
+        - Core Chameleon - by tortoise_emperor
+        - Productivity Statistics - by tortoise_emperor
+        - Round Monitor - by tortoise_emperor
+        - Universal Delegate Monitor - by tortoise_emperor
+    - Reward Calculators
+        - Reward Calculator - by bfx
+        - Reward Calculator - by cactus1549
+        - Reward Calculator - by dutch_pool
+        - Reward Calculator - by maryo
+        - Reward Calculator - by the_bobbie_bunch
 
 ## Compendia Resources
 
@@ -230,8 +236,14 @@
 * [Compendia Stakes - Telegram Bot](https://t.me/CompendiaStakes) - BIND stake monitor Telegram Bot, created by bindie.
 * [Compendia Tools Website](https://compendia.arbarodelegate.eu/tools) - Compendia tools website - created by arbaro. 
 * [Compendia Validators Info](https://compendiavalidators.com) - Compendia Validator website, created by the_bobbie_bunch.
-* [Reward Calculator - bfx](https://bit.ly/3iYOOAG) - Daily BIND reward calculator, created by bfx.
-* [Reward Calculator - cactus1549](https://compendiacalculator.online) - Daily BIND reward calculator, created by cactus1549.
-* [Reward Calculator - dutch_pool](https://calculator.dutchpool.io/compendia) - Daily BIND reward calculator, created by dutch_pool team.
-* [Reward Calculator - maryo](https://bit.ly/3ht3CqW) - Daily BIND reward calculator, created by maryo.
-* [Reward Calculator - the_bobbie_bunch](https://www.thebobbiebunch.nl/#calculator) - Daily BIND reward calculator, created by the_bobbie_bunch.
+* Core Plugins
+    * [Core Chameleon - tortoise_emperor](https://github.com/alessiodf/core-chameleon) - plugin that externally closes P2P port, hides IP via Tor and enables full and complete operation of relay/forger behind firewall, created by tortoise_emperor.
+    * [Productivity Statistics - tortoise_emperor](https://github.com/alessiodf/productivity-statistics) - Includes statistics to delegates API endpoint to display the number of missed rounds and slots for each delegate, along with a productivity score, created by tortoise_emperor.
+    * [Round Monitor - tortoise_emperor](https://github.com/alessiodf/round-monitor) - broadcasts delegate statistics over WebSocket protocol, created by tortoise_emperor.
+    * [Universal Delegate Monitor - tortoise_emperor](https://github.com/alessiodf/universal-delegate-monitor-server) - provides in-depth forging round statistics including forging times and round positions, created by tortoise_emperor, created by tortoise_emperor.
+* Reward Calculators
+    * [Reward Calculator - bfx](https://bit.ly/3iYOOAG) - Daily BIND reward calculator, created by bfx.
+    * [Reward Calculator - cactus1549](https://compendiacalculator.online) - Daily BIND reward calculator, created by cactus1549.
+    * [Reward Calculator - dutch_pool](https://calculator.dutchpool.io/compendia) - Daily BIND reward calculator, created by dutch_pool team.
+    * [Reward Calculator - maryo](https://bit.ly/3ht3CqW) - Daily BIND reward calculator, created by maryo.
+    * [Reward Calculator - the_bobbie_bunch](https://www.thebobbiebunch.nl/#calculator) - Daily BIND reward calculator, created by the_bobbie_bunch.
