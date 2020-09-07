@@ -66,6 +66,7 @@
         - Reward Calculator - by dutch_pool
         - Reward Calculator - by maryo
         - Reward Calculator - by the_bobbie_bunch
+        - Reward Comparison Spreadsheet - by bfx
 
 ## Compendia Resources
 
@@ -242,8 +243,9 @@
     * [Round Monitor - tortoise_emperor](https://github.com/alessiodf/round-monitor) - provides in-depth forging round statistics including forging times and round positions, created by tortoise_emperor, created by tortoise_emperor.
     * [Universal Delegate Monitor - tortoise_emperor](https://github.com/alessiodf/universal-delegate-monitor-server) - broadcasts delegate statistics over WebSocket protocol, created by tortoise_emperor.
 * Reward Calculators
-    * [Reward Calculator - bfx](https://bit.ly/3iYOOAG) - Daily BIND reward calculator, created by bfx.
+    * [Reward Calculator - bfx](https://shorturl.at/hlJNO) - Daily BIND reward calculator, created by bfx.
     * [Reward Calculator - cactus1549](https://compendiacalculator.online) - Daily BIND reward calculator, created by cactus1549.
     * [Reward Calculator - dutch_pool](https://calculator.dutchpool.io/compendia) - Daily BIND reward calculator, created by dutch_pool team.
     * [Reward Calculator - maryo](https://bit.ly/3ht3CqW) - Daily BIND reward calculator, created by maryo.
     * [Reward Calculator - the_bobbie_bunch](https://www.thebobbiebunch.nl/#calculator) - Daily BIND reward calculator, created by the_bobbie_bunch.
+    * [Reward Comparison Spreadsheet - bfx](https://bit.ly/3iYOOAG) - Daily BIND reward comparison spreadsheet, created by bfx.
