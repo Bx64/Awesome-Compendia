@@ -67,6 +67,9 @@
         - Reward Calculator - by maryo
         - Reward Calculator - by the_bobbie_bunch
         - Reward Comparison Spreadsheet - by bfx
+    - True Block Weight Payout Scripts
+        - core2_tbw - by goose
+        - cryptology_tbw - by cryptology
 
 ## Compendia Resources
 
@@ -249,3 +252,6 @@
     * [Reward Calculator - maryo](https://bit.ly/3ht3CqW) - Daily BIND reward calculator, created by maryo.
     * [Reward Calculator - the_bobbie_bunch](https://www.thebobbiebunch.nl/#calculator) - Daily BIND reward calculator, created by the_bobbie_bunch.
     * [Reward Comparison Spreadsheet - bfx](https://bit.ly/3iYOOAG) - Daily BIND reward comparison spreadsheet, created by bfx.
+* True Block Weight Payout Scripts
+    * [core2_tbw - goose](https://github.com/galperins4/core2_tbw) - Automated payout script for validators (free to use), created by goose
+    * [cryptology_tbw - cryptology](https://github.com/wownmedia/cryptology_tbw) - Automated payout script for validators (1% fee), created by cryptology
