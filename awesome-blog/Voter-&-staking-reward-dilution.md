@@ -15,7 +15,7 @@ For a validator to actively forge blocks (and thereby securing the network), the
 
 **Validators Types:**
 
-**(i) Sharing Pool -** Typically a high sharing percentage public pool. Voters receieve rewards based on their total vote power.
+**(i) Sharing Pool -** Typically a high sharing percentage public pool. Voters receive rewards based on their total vote power.
 
 **(ii) Contributing Validator -** A validator produces a proposal, including what they have done & plan to do for the community.  Voters can read these proposal by clicking on a validators name on the explorer.  If they have set a proposal, it will be visible for voters to read. These validators usually share a slightly lower percentage than public pools.
 
@@ -24,7 +24,7 @@ For a validator to actively forge blocks (and thereby securing the network), the
 
 ## Why does it matter to you as a voter? 
 
-As a voter your aim is to find a validator who offers what you the voter wants. That might be someone who contributes to the ecosystem through tools, marketing, blogs et cetera.  Alternatively some voters wish to obtain the best ROI for their vote.
+As a voter your aim is to find a validator who offers what you the voter wants. That might be someone who contributes to the ecosystem through tools, marketing, blogs et cetera.  Alternatively, some voters wish to obtain the best ROI for their vote.
 
 
 ## What is staking, and why should I stake?
@@ -72,6 +72,6 @@ Therefore, it is advisable that you compare several validators every few weeks o
 
 **[Validator made reward calculators](https://github.com/Bx64/Awesome-Compendia/#tools-validators)** 
 
-Often, voting for a validator near the top of the explorer ranking is a trade-off between stability and rewards. A higher ranking validator might give you less reward per BIND voting, but he might also be at less risk to drop out of the forging delegates. The same principle applies to lower ranked validators: they will give you more reward per BIND voting, but it might be good to check wether they still remain in a forging position, every so often. So, if you want to maximise your rewards, dilution is something you have to understand and work with it.
+Often, voting for a validator near the top of the explorer ranking is a trade-off between stability and rewards. A higher ranking validator might give you less reward per BIND voting, but he might also be at less risk to drop out of the forging delegates. The same principle applies to lower ranked validators: they will give you more reward per BIND voting, but it might be good to check whether they still remain in a forging position, every so often. So, if you want to maximise your rewards, dilution is something you have to understand and work with it.
 
-But reward sharing is not everything and lots of delegates offer different things to their voters or to the community as a whole. So make sure to check the delegate proposals and check wether they are delivering what they have promised. In the end, you as a voter have the power to both punish and reward validators by casting your vote.
+But reward sharing is not everything and lots of delegates offer different things to their voters or to the community as a whole. So make sure to check the delegate proposals and check whether they are delivering what they have promised. In the end, you as a voter have the power to both punish and reward validators by casting your vote.
