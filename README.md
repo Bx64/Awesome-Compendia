@@ -70,6 +70,8 @@
     - True Block Weight Payout Scripts
         - core2_tbw - by goose
         - cryptology_tbw - by cryptology
+    - Validator Stake Weight Change
+        - Staking Weight Change - by arbaro
 
 ## Compendia Resources
 
@@ -255,3 +257,5 @@
 * True Block Weight Payout Scripts
     * [core2_tbw - goose](https://github.com/galperins4/core2_tbw) - Automated payout script for validators (free to use), created by goose
     * [cryptology_tbw - cryptology](https://github.com/wownmedia/cryptology_tbw) - Automated payout script for validators (1% fee), created by cryptology
+* Validator Stake Weight Change
+    * [Staking Weight Change](https://compendia.arbarodelegate.eu/) - A tool to display changes in validator staking weight, created by arbaro
