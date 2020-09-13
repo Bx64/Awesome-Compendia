@@ -50,11 +50,6 @@
     - Compendia Crypto - Crypto npm library for Compendia - by mrmikeo
     
 - [Tools (Validators)](#tools-validators)
-    - Compendia Explorer Mainnet (ARK-based) - by itsanametoo
-    - Compendia Monitor Telegram Bot - by cactus1549
-    - Compendia Stakes Telegram Bot - by bindie
-    - Compendia Tools Website - by arbaro
-    - Compendia Validators Info - by the_bobbie_bunch
     - Core Plugins
         - Core Chameleon - by tortoise_emperor
         - Productivity Statistics - by tortoise_emperor
@@ -67,11 +62,18 @@
         - Reward Calculator - by maryo
         - Reward Calculator - by the_bobbie_bunch
         - Reward Comparison Spreadsheet - by bfx
+    - Telegram Bots
+        - Compendia Voter/Validator Monitor - by cactus1549
+        - Compendia Stakes Monitor - by bindie
     - True Block Weight Payout Scripts
         - core2_tbw - by goose
         - cryptology_tbw - by cryptology
     - Validator Stake Weight Change
         - Staking Weight Change - by arbaro
+    - Websites
+        - Compendia Explorer Mainnet (ARK-based) - by itsanametoo
+        - Compendia Tools - by arbaro
+        - Compendia Validators Info - by the_bobbie_bunch
 
 ## Compendia Resources
 
@@ -237,11 +239,6 @@
 
 ***Unofficial** tools developed by Compendia validators.*
 
-* [Compendia Explorer - Mainnet](https://compendia.itsadelegatetoo.com/#/) - Mainnet Compendia explorer based on ARK, created by itsanametoo.
-* [Compendia Monitor - Telegram Bot](https://t.me/compendiamonitorbot) - BIND voter & validator monitor bot, created by cactus1549.
-* [Compendia Stakes - Telegram Bot](https://t.me/CompendiaStakes) - BIND stake monitor Telegram Bot, created by bindie.
-* [Compendia Tools Website](https://compendia.arbarodelegate.eu/tools) - Compendia tools website - created by arbaro. 
-* [Compendia Validators Info](https://compendiavalidators.com) - Compendia Validator website, created by the_bobbie_bunch.
 * Core Plugins
     * [Core Chameleon - tortoise_emperor](https://github.com/alessiodf/core-chameleon) - plugin that externally closes P2P port, hides IP via Tor and enables full and complete operation of relay/forger behind firewall, created by tortoise_emperor.
     * [Productivity Statistics - tortoise_emperor](https://github.com/alessiodf/productivity-statistics) - includes statistics to delegates API endpoint to display the number of missed rounds and slots for each delegate, along with a productivity score, created by tortoise_emperor.
@@ -254,8 +251,15 @@
     * [Reward Calculator - maryo](https://bit.ly/3ht3CqW) - Daily BIND reward calculator, created by maryo.
     * [Reward Calculator - the_bobbie_bunch](https://www.thebobbiebunch.nl/#calculator) - Daily BIND reward calculator, created by the_bobbie_bunch.
     * [Reward Comparison Spreadsheet - bfx](https://bit.ly/3iYOOAG) - Daily BIND reward comparison spreadsheet, created by bfx.
+* Telegram Bots
+    * [Compendia Voter/Validator Monitor](https://t.me/compendiamonitorbot) - BIND voter & validator monitor bot, created by cactus1549.
+    * [Compendia Stakes Monitor](https://t.me/CompendiaStakes) - BIND stake monitor Telegram Bot, created by bindie.
 * True Block Weight Payout Scripts
     * [core2_tbw - goose](https://github.com/galperins4/core2_tbw) - Automated payout script for validators (free to use), created by goose
     * [cryptology_tbw - cryptology](https://github.com/wownmedia/cryptology_tbw) - Automated payout script for validators (1% fee), created by cryptology
 * Validator Stake Weight Change
     * [Staking Weight Change](https://compendia.arbarodelegate.eu/) - A tool to display changes in validator staking weight, created by arbaro
+* Websites
+    * [Compendia Explorer - Mainnet](https://compendia.itsadelegatetoo.com/#/) - Mainnet Compendia explorer based on ARK, created by itsanametoo.
+    * [Compendia Tools Website](https://compendia.arbarodelegate.eu/tools) - Compendia tools website - created by arbaro. 
+    * [Compendia Validators Info](https://compendiavalidators.com) - Compendia Validator website, created by the_bobbie_bunch.
