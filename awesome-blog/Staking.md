@@ -23,7 +23,7 @@ DPoS delegates/validators secure the blockchain through forging blocks, and in t
 ## Supply Inflation
 DPoS chains typically have fixed inflation based over several years, this is to help control the coin supply in circulation. Inflation comes from Delegate/Validators forging new blocks as described above.  The effect of validators forging new blocks increases the supply by either ß3.9 per block (if ranked 6th to 47th), or ß4.84 per block (if ranked 1st to 5th).
 
-#### The Compendia blockchain produces around ß1,939,021 - Per month
+#### The Compendia blockchain produces around ß1,753,200 - Per month
 
 Block rewards are controlled through an annual milestone which is fixed in the current networks config.  This can only be updated if the 47 validators reach consensus and accept the potential change.  
 
