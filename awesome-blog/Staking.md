@@ -17,6 +17,14 @@ In Compendia, the above two methods are combined into a new dynamic: staking you
 
 Staking your BIND for a set period applies a multiple (5x - 7.5x - 10x) to the voting power of your staked balance. This means that one staked BIND is no longer counted as one vote, but as 5 votes (or 7.5 votes, or 10 votes - depending on the lock period). This way it increases your potential earnings when you vote for a sharing validator. So, by pledging to lock your funds for a certain amount of time and thereby decreasing the circulating amount of BIND, you will be able to earn more with the same amount of coins than if you would not stake, and only vote.
 
+When staking, your BIND will go through 5 different phases:
+- Grace: when your stake transaction has been created, you have a 1 hour period in which you can cancel it.
+- Powering: after the initial grace phase, your stake is powering up. There is no vote power bonus yet, and this phase takes 47 hours.
+- Active: when the powering phase ends, your stake is active and now provides the bonus vote power that corresponds with your lock time.
+- Release: after your lock period has passed, your staked coins will be released and grants half the initial vote power bonus.
+- Redeemed: if your staked coins have been released, you can redeem them back to your wallet. After ~14 days, you have full control of your staked coins again.
+- In the future, you'll be able to redeem your stake before the release period at the costs of having a portion of the deposit slashed.
+
 ## Securing the Network
 DPoS delegates/validators secure the blockchain through forging blocks, and in the case of Compendia, there are 47 validators (rather than the 51 in ARK) and each active validator forges one block every 6 seconds. Therefore 47 new blocks are forged every 4.7 minutes (6 * 47 = 282 seconds = 4.7 minutes). In a similar way to proof-of-work networks such as Bitcoin, a block contains transactions and the validator that forges them receives a proportion of the transaction fee (described in the Fee Removal Model further below)
 
