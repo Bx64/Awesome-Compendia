@@ -23,11 +23,9 @@ DPoS delegates/validators secure the blockchain through forging blocks, and in t
 ## Supply Inflation
 DPoS chains typically have fixed inflation based over several years, this is to help control the coin supply in circulation. Inflation comes from Delegate/Validators forging new blocks as described above.  The effect of validators forging new blocks increases the supply by either ß3.9 per block (if ranked 6th to 47th), or ß4.84 per block (if ranked 1st to 5th).
 
-#### The Compendia blockchain produces around ß1,753,200 - Per month
+#### The Compendia blockchain produces around ß1,753,200 per month
 
-Block rewards are controlled through an annual milestone which is fixed in the current networks config.  This can only be updated if the 47 validators reach consensus and accept the potential change.  
-
-The milestones for BIND are as follows:
+Block rewards are controlled through an annual milestone which is fixed in the current networks config.  This can only be updated if the 47 validators reach consensus and accept the potential change. The current milestones for BIND are as follows:
 
 | Years |  Rewards (6-47) | Rewards (Top 5) | Average|
 |:-------:|:-----------------:|:-----------------:|:--------:|
@@ -42,25 +40,19 @@ In general DPoS blockchains allow voters to vote, allocating their wallet weight
 #### What differentiates Compendia?
 The key difference is that staked coins are locked for a fixed period, either 3, 6, or 12 months (as described above).  The coins are effectively locked out of supply, by incentivising voters to lock their coins for the maximum period of 12 months.  This helps offset the increase in supply through forging rewards.
 
-At the time of writing, ß11,816,021 is currently locked into staking, given the current BIND supply (i.e nOS to BIND) ß112,894,676, around 10% of all BIND in circulation is locked out of supply for the staking periods highlighted earlier.
-
-With the current staked coins, it would take just over 6 months for inflation to offset the monthly forging reward increase.
+At the time of writing, ß11,816,021 is currently locked into staking, given the current BIND supply (i.e nOS to BIND) ß112,894,676, around 10% of all BIND in circulation is locked out of supply for the staking periods highlighted earlier. With the current staked coins, it would take just over 6 months for inflation to offset the monthly forging reward increase.
 
 ## Fee removal model.
 Compendia also offer another deflationary measure through a sophisticated fee removal model.
 
 #### The [fee collection and removal model](https://docs.compendia.org/guide/economy.html#fee-removal-model) works as follows:
-
-100% of collected fees up to the amount equal to the block reward in a block are permanently removed from circulation.
-
-50% of any remaining collected fees are also removed from circulation.
-
-The other 50% is awarded to the forging validator.
+- 100% of collected fees up to the amount equal to the block reward in a block are permanently removed from circulation.
+- 50% of any remaining collected fees are also removed from circulation.
+- The other 50% is awarded to the forging validator.
 
 This fee system helps with combating possible shifts in Vote Power going from voters towards validators during times of increased transaction activity on the network.
 
 ## Summary
-
 The Compendia Team have a clear understanding of the tokenomics of a blockchain, lessons have been learned from earlier DPoS implementations and new strategies have been deployed to ensure a fairer, more balanced approach to DPoS tokenomics.
 
 #### If you have enjoyed reading this blog please consider voting for validators BFX & Cryptomanic. Thank you.
