@@ -53,6 +53,7 @@
     - Core Plugins
         - Core Chameleon - by tortoise_emperor
         - Productivity Statistics - by tortoise_emperor
+        - Relay Verifier - by tortoise_emperor
         - Round Monitor - by tortoise_emperor
         - Universal Delegate Monitor - by tortoise_emperor
     - Reward Calculators
@@ -62,6 +63,9 @@
         - Reward Calculator - by maryo
         - Reward Calculator - by the_bobbie_bunch
         - Reward Comparison Spreadsheet - by bfx
+    - Reward Programs
+        - BIND.farm - by bindfarm
+        - Relay Operator Program - by cams_yellow_jacket
     - Telegram Bots
         - Compendia Voter/Validator Monitor - by cactus1549
         - Compendia Stakes Monitor - by bindie
@@ -71,6 +75,7 @@
     - Validator Stake Weight Change
         - Staking Weight Change - by arbaro
     - Websites
+        - Compendia Directory - by Tin
         - Compendia Explorer Mainnet (ARK-based) - by itsanametoo
         - Compendia Tools - by arbaro
         - Compendia Validators Info - by the_bobbie_bunch
@@ -159,8 +164,9 @@
         * [BIND/ETH](https://www.altilly.com/market/BIND_ETH) - BIND/ETH trading pair.
         * [BIND/ARK](https://www.altilly.com/market/BIND_ARK) - BIND/ARK trading pair.
         * [BIND/XQR](https://www.altilly.com/market/BIND_XQR) - BIND/XQR trading pair.
-* [Switcheo](https://switcheo.exchange/) - Switcheo Exchange paired with NEO (currently, still NOS/NEO). Will feature BIND markets.
-    * [NOS/NEO](https://switcheo.exchange/markets/NOS_NEO) - NOS/NEO trading pair.
+* [BIND.exchange](https://bind.exchange) - Uniswap portal for wBIND/ETH pool.
+* [Switcheo](https://switcheo.exchange/) - Switcheo Exchange paired with ETH.
+    * [wBIND/ETH](https://switcheo.exchange/markets/wBIND_ETH) - wBIND/ETH trading pair.
 
 ## Mainnet API Documentation
 
@@ -242,8 +248,12 @@
 * Core Plugins
     * [Core Chameleon - tortoise_emperor](https://github.com/alessiodf/core-chameleon) - plugin that externally closes P2P port, hides IP via Tor and enables full and complete operation of relay/forger behind firewall, created by tortoise_emperor.
     * [Productivity Statistics - tortoise_emperor](https://github.com/alessiodf/productivity-statistics) - includes statistics to delegates API endpoint to display the number of missed rounds and slots for each delegate, along with a productivity score, created by tortoise_emperor.
+    * [Relay Verifier - tortoise_emperor](https://github.com/alessiodf/verify-relay) - allows relays ran by validators to be monitored for activity.
     * [Round Monitor - tortoise_emperor](https://github.com/alessiodf/round-monitor) - provides in-depth forging round statistics including forging times and round positions, created by tortoise_emperor, created by tortoise_emperor.
     * [Universal Delegate Monitor - tortoise_emperor](https://github.com/alessiodf/universal-delegate-monitor-server) - broadcasts delegate statistics over WebSocket protocol, created by tortoise_emperor.
+* Reward Programs
+    * [BIND.farm - bindfarm](https://bind.farm) - Pool that pays out liquidity providers for ETH/wBIND pool.
+    * [Relay Operator Program - cams_yellow_jacket](https://forms.gle/xna8qC4fWTg3ViZr5) - Rewards program that pays community relay operators 500 BIND/month for running a BIND relay.
 * Reward Calculators
     * [Reward Calculator - bfx](https://shorturl.at/hlJNO) - Daily BIND reward calculator, created by bfx.
     * [Reward Calculator - cactus1549](https://compendiacalculator.online) - Daily BIND reward calculator, created by cactus1549.
@@ -260,6 +270,7 @@
 * Validator Stake Weight Change
     * [Staking Weight Change](https://compendia.arbarodelegate.eu/) - A tool to display changes in validator staking weight, created by arbaro
 * Websites
+    * [Compendia Directory](https://compendia.xyz) - Compendia Directory with useful information about the project, created by arktoshi.
     * [Compendia Explorer - Mainnet](https://compendia.itsadelegatetoo.com/#/) - Mainnet Compendia explorer based on ARK, created by itsanametoo.
     * [Compendia Tools Website](https://compendia.arbarodelegate.eu/tools) - Compendia tools website - created by arbaro. 
     * [Compendia Validators Info](https://compendiavalidators.com) - Compendia Validator website, created by the_bobbie_bunch.
