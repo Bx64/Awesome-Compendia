@@ -30,6 +30,7 @@
         
 - [Exchanges](#Exchanges)
     - Altilly
+    - BIND.exchange
     - Switcheo
     
 - [Mainnet API Documentation](#mainnet-api-documentation)
