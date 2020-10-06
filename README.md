@@ -76,7 +76,7 @@
     - Validator Stake Weight Change
         - Staking Weight Change - by arbaro
     - Websites
-        - Compendia Directory - by Tin
+        - Compendia Directory - by arktoshi
         - Compendia Explorer Mainnet (ARK-based) - by itsanametoo
         - Compendia Tools - by arbaro
         - Compendia Validators Info - by the_bobbie_bunch
