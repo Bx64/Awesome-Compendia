@@ -57,6 +57,8 @@
         - Relay Verifier - by tortoise_emperor
         - Round Monitor - by tortoise_emperor
         - Universal Delegate Monitor - by tortoise_emperor
+    - Guide
+        - A Node Setup Guide - bindiebot
     - Reward Calculators
         - Reward Calculator - by bfx
         - Reward Calculator - by cactus1549
