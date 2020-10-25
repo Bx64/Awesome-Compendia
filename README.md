@@ -252,6 +252,8 @@
     * [Relay Verifier - tortoise_emperor](https://github.com/alessiodf/verify-relay) - allows relays ran by validators to be monitored for activity.
     * [Round Monitor - tortoise_emperor](https://github.com/alessiodf/round-monitor) - provides in-depth forging round statistics including forging times and round positions, created by tortoise_emperor, created by tortoise_emperor.
     * [Universal Delegate Monitor - tortoise_emperor](https://github.com/alessiodf/universal-delegate-monitor-server) - broadcasts delegate statistics over WebSocket protocol, created by tortoise_emperor.
+* Guides
+    * [A Node Setup Guide - bindiebot](https://gist.github.com/BindieBot/74187ee9dbc8323808f66ec2ca090868) - A guide to help validators setup a node for the Compendia mainnet network.
 * Reward Programs
     * [BIND.farm - bindfarm](https://bind.farm) - Pool that pays out liquidity providers for ETH/wBIND pool.
     * [Relay Operator Program - cams_yellow_jacket](https://forms.gle/xna8qC4fWTg3ViZr5) - Rewards program that pays community relay operators 500 BIND/month for running a BIND relay.
