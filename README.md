@@ -58,7 +58,7 @@
         - Round Monitor - by tortoise_emperor
         - Universal Delegate Monitor - by tortoise_emperor
     - Guides
-        - A Node Setup Guide - bindiebot
+        - A Node Setup Guide - bindie
     - Reward Calculators
         - Reward Calculator - by bfx
         - Reward Calculator - by cactus1549
@@ -255,7 +255,7 @@
     * [Round Monitor - tortoise_emperor](https://github.com/alessiodf/round-monitor) - provides in-depth forging round statistics including forging times and round positions, created by tortoise_emperor, created by tortoise_emperor.
     * [Universal Delegate Monitor - tortoise_emperor](https://github.com/alessiodf/universal-delegate-monitor-server) - broadcasts delegate statistics over WebSocket protocol, created by tortoise_emperor.
 * Guides
-    * [A Node Setup Guide - bindiebot](https://gist.github.com/BindieBot/74187ee9dbc8323808f66ec2ca090868) - A guide to help validators setup a node for the Compendia mainnet network.
+    * [A Node Setup Guide - bindie](https://gist.github.com/BindieBot/74187ee9dbc8323808f66ec2ca090868) - A guide to help validators setup a node for the Compendia mainnet network.
 * Reward Programs
     * [BIND.farm - bindfarm](https://bind.farm) - Pool that pays out liquidity providers for ETH/wBIND pool.
     * [Relay Operator Program - cams_yellow_jacket](https://forms.gle/xna8qC4fWTg3ViZr5) - Rewards program that pays community relay operators 500 BIND/month for running a BIND relay.
