@@ -68,6 +68,7 @@
         - Reward Comparison Spreadsheet - by bfx
     - Reward Programs
         - BIND.farm - by bindfarm
+		- BIND faucet - by biz_classic
         - Relay Operator Program - by cams_yellow_jacket
     - Telegram Bots
         - Compendia Voter/Validator Monitor - by cactus1549
@@ -258,6 +259,7 @@
     * [A Node Setup Guide - bindie](https://gist.github.com/BindieBot/74187ee9dbc8323808f66ec2ca090868) - A guide to help validators setup a node for the Compendia mainnet network.
 * Reward Programs
     * [BIND.farm - bindfarm](https://bind.farm) - Pool that pays out liquidity providers for ETH/wBIND pool.
+	* [BIND faucet - biz_classic](https://compendia.classicdelegate.biz/faucet) - Faucet that distributes BIND to users.
     * [Relay Operator Program - cams_yellow_jacket](https://forms.gle/xna8qC4fWTg3ViZr5) - Rewards program that pays community relay operators 500 BIND/month for running a BIND relay.
 * Reward Calculators
     * [Reward Calculator - bfx](https://shorturl.at/hlJNO) - Daily BIND reward calculator, created by bfx.
