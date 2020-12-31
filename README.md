@@ -68,7 +68,7 @@
         - Reward Comparison Spreadsheet - by bfx
     - Reward Programs
         - BIND.farm - by bindfarm
-		- BIND faucet - by biz_classic
+        - BIND faucet - by biz_classic
         - Relay Operator Program - by cams_yellow_jacket
     - Telegram Bots
         - Compendia Voter/Validator Monitor - by cactus1549
@@ -78,6 +78,8 @@
         - cryptology_tbw - by cryptology
     - Validator Stake Weight Change
         - Staking Weight Change - by arbaro
+    - Videos
+        - Crypto Podcasts (YouTube) - by yakety_yak
     - Websites
         - Compendia Directory - by arktoshi
         - Compendia Explorer Mainnet (ARK-based) - by itsanametoo
@@ -259,7 +261,7 @@
     * [A Node Setup Guide - bindie](https://gist.github.com/BindieBot/74187ee9dbc8323808f66ec2ca090868) - A guide to help validators setup a node for the Compendia mainnet network.
 * Reward Programs
     * [BIND.farm - bindfarm](https://bind.farm) - Pool that pays out liquidity providers for ETH/wBIND pool.
-	* [BIND faucet - biz_classic](https://compendia.classicdelegate.biz/faucet) - Faucet that distributes BIND to users.
+    * [BIND faucet - biz_classic](https://compendia.classicdelegate.biz/faucet) - Faucet that distributes BIND to users.
     * [Relay Operator Program - cams_yellow_jacket](https://forms.gle/xna8qC4fWTg3ViZr5) - Rewards program that pays community relay operators 500 BIND/month for running a BIND relay.
 * Reward Calculators
     * [Reward Calculator - bfx](https://shorturl.at/hlJNO) - Daily BIND reward calculator, created by bfx.
@@ -272,10 +274,12 @@
     * [Compendia Voter/Validator Monitor](https://t.me/compendiamonitorbot) - BIND voter & validator monitor bot, created by cactus1549.
     * [Compendia Stakes Monitor](https://t.me/CompendiaStakes) - BIND stake monitor Telegram Bot, created by bindie.
 * True Block Weight Payout Scripts
-    * [core2_tbw - goose](https://github.com/galperins4/core2_tbw) - Automated payout script for validators (free to use), created by goose
-    * [cryptology_tbw - cryptology](https://github.com/wownmedia/cryptology_tbw) - Automated payout script for validators (1% fee), created by cryptology
+    * [core2_tbw - goose](https://github.com/galperins4/core2_tbw) - Automated payout script for validators (free to use), created by goose.
+    * [cryptology_tbw - cryptology](https://github.com/wownmedia/cryptology_tbw) - Automated payout script for validators (1% fee), created by cryptology.
 * Validator Stake Weight Change
-    * [Staking Weight Change](https://compendia.arbarodelegate.eu/) - A tool to display changes in validator staking weight, created by arbaro
+    * [Staking Weight Change](https://compendia.arbarodelegate.eu/) - A tool to display changes in validator staking weight, created by arbaro.
+* Videos
+    * [Crypto Podcasts (YouTube)](https://www.youtube.com/channel/UCOtkmaTWYgXM8q22pYDQbjg) - Monthly crypto podcasts and Compendia Updates, created by yakety_yak.
 * Websites
     * [Compendia Directory](https://compendia.xyz) - Compendia Directory with useful information about the project, created by arktoshi.
     * [Compendia Explorer - Mainnet](https://compendia.itsadelegatetoo.com/#/) - Mainnet Compendia explorer based on ARK, created by itsanametoo.
