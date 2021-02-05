@@ -79,7 +79,7 @@
     - Validator Stake Weight Change
         - Staking Weight Change - by arbaro
     - Videos
-        - Crypto Podcasts (YouTube) - by yakety_yak
+        - Crypto Podcasts (YouTube) - by korfanty
     - Websites
         - Compendia Directory - by arktoshi
         - Compendia Explorer Mainnet (ARK-based) - by itsanametoo
@@ -164,15 +164,15 @@
 
 *Exchanges where BIND can be traded.*
 
-* [Altilly](https://altilly.com/) - Altilly Exchange paired with BTC, ETH, ARK & XQR.
-    * [Asset information](https://www.altilly.com/asset/BIND) - General information about BIND and it's trading pairs.
-        * [BIND/BTC](https://www.altilly.com/market/BIND_BTC) - BIND/BTC trading pair.
-        * [BIND/ETH](https://www.altilly.com/market/BIND_ETH) - BIND/ETH trading pair.
-        * [BIND/ARK](https://www.altilly.com/market/BIND_ARK) - BIND/ARK trading pair.
-        * [BIND/XQR](https://www.altilly.com/market/BIND_XQR) - BIND/XQR trading pair.
 * [BIND.exchange](https://bind.exchange) - Uniswap portal for wBIND/ETH pool.
 * [Switcheo](https://switcheo.exchange/) - Switcheo Exchange paired with ETH.
     * [wBIND/ETH](https://switcheo.exchange/markets/wBIND_ETH) - wBIND/ETH trading pair.
+* [Altilly (suspended due to hack)](https://altilly.com/) - Altilly Exchange paired with BTC, ETH, ARK & XQR.
+    * [Asset information](https://www.altilly.com/asset/BIND) - General information about BIND and it's trading pairs.
+        * [BIND/BTC](https://www.altilly.com/market/BIND_BTC) - BIND/BTC trading pair. Suspended due to hack.
+        * [BIND/ETH](https://www.altilly.com/market/BIND_ETH) - BIND/ETH trading pair. Suspended due to hack.
+        * [BIND/ARK](https://www.altilly.com/market/BIND_ARK) - BIND/ARK trading pair. Suspended due to hack.
+        * [BIND/XQR](https://www.altilly.com/market/BIND_XQR) - BIND/XQR trading pair. Suspended due to hack.
 
 ## Mainnet API Documentation
 
@@ -245,7 +245,7 @@
 ***Unofficial** tools developed by Compendia community members.*
 
 * [Compendia JS](https://github.com/mrmikeo/compendia-js) - Javascript library for sending transactions - by mrmikeo.
-* [Compendia Crypto](https://github.com/mrmikeo/crypto) - Compendia Crypto - Crypto npm library for Compendia - by mrmikeo
+* [Compendia Crypto](https://github.com/mrmikeo/crypto) - Compendia Crypto - Crypto npm library for Compendia - by mrmikeo.
 
 ## Tools (Validators)
 
@@ -279,7 +279,7 @@
 * Validator Stake Weight Change
     * [Staking Weight Change](https://compendia.arbarodelegate.eu/) - A tool to display changes in validator staking weight, created by arbaro.
 * Videos
-    * [Crypto Podcasts (YouTube)](https://www.youtube.com/channel/UCOtkmaTWYgXM8q22pYDQbjg) - Monthly crypto podcasts and Compendia Updates, created by yakety_yak.
+    * [Crypto Podcasts (YouTube)](https://www.youtube.com/channel/UCOtkmaTWYgXM8q22pYDQbjg) - Monthly crypto podcasts and Compendia Updates, created by korfanty.
 * Websites
     * [Compendia Directory](https://compendia.xyz) - Compendia Directory with useful information about the project, created by arktoshi.
     * [Compendia Explorer - Mainnet](https://compendia.itsadelegatetoo.com/#/) - Mainnet Compendia explorer based on ARK, created by itsanametoo.
