@@ -95,7 +95,7 @@
 ### Summary
 
  `BIND` is the native currency of the Compendia blockchain. 
- The current circulation supply is around 110 million, about 65 million of which are currently stated. 
+ The current circulation supply is around 110 million, about 65 million of which are currently staked. 
  See also [Explorer](https://bindscan.io/) in the Mainnet Resources section.
  The maximal supply is about 330 million. 
 
