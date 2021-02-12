@@ -94,16 +94,16 @@
 
 ### Summary
 
-`BIND` is the native currency of the Compendia blockchain. 
-The current circulation supply is around 110 million, about 65 million of which are currently stated. 
-See also [Explorer](https://bindscan.io/) in the Mainnet Resources section.
-The maximal supply is about 330 million. 
+ `BIND` is the native currency of the Compendia blockchain. 
+ The current circulation supply is around 110 million, about 65 million of which are currently stated. 
+ See also [Explorer](https://bindscan.io/) in the Mainnet Resources section.
+ The maximal supply is about 330 million. 
 
-`wBIND` is the same asset when wrapped to be used as an Ethereum token, see [etherscan](https://etherscan.io/address/0x15334dcb171e8b65d6650321581dca83be870115).
-For the market, see [coinmarketcap](https://coinmarketcap.com/currencies/wrapped-bind/), [coingecko](https://www.coingecko.com/en/coins/wrapped-bind)
+ `wBIND` is the same asset when wrapped to be used as an Ethereum token, see [etherscan](https://etherscan.io/address/0x15334dcb171e8b65d6650321581dca83be870115).
+ For the market, see [coinmarketcap](https://coinmarketcap.com/currencies/wrapped-bind/), [coingecko](https://www.coingecko.com/en/coins/wrapped-bind)
 
-`NOS` is the name of the currency from before the swap from NEO. See token swap section.
-Swapping is currently halted (Feb. 2020). Continuation will be announced.
+ `NOS` is the name of the currency from before the swap from NEO. See token swap section.
+ Swapping is currently halted (Feb. 2020). Continuation will be announced.
 
 ### Exchanges
 
@@ -118,7 +118,7 @@ Swapping is currently halted (Feb. 2020). Continuation will be announced.
         * [BIND/ETH](https://www.altilly.com/market/BIND_ETH) - BIND/ETH trading pair. Suspended due to hack.
         * [BIND/ARK](https://www.altilly.com/market/BIND_ARK) - BIND/ARK trading pair. Suspended due to hack.
         * [BIND/XQR](https://www.altilly.com/market/BIND_XQR) - BIND/XQR trading pair. Suspended due to hack.
-        
+
 ## Compendia Resources
 
 *Official Compendia Websites. Listed first due to relevance.*
@@ -258,7 +258,7 @@ Swapping is currently halted (Feb. 2020). Continuation will be announced.
         * [List Top Wallets](https://docs.compendia.org/api/wallets.html#list-all-top-wallets) - List all top wallets.
         * [Retrieve A Wallet](https://docs.compendia.org/api/wallets.html#retrieve-a-wallet) - Retrieve a wallet.
         * [Search All Wallets](https://docs.compendia.org/api/wallets.html#search-all-wallets) - Search all wallets.
-        
+
 ## Tools (Community)
 
 ***Unofficial** tools developed by Compendia community members.*
