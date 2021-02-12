@@ -47,7 +47,7 @@
     - Transactions
     - Votes
     - Wallets
-      
+
 - [Tools (Community)](#tools-community)
     - Compendia JS - Javascript library for sending transactions - by mrmikeo
     - Compendia Crypto - Crypto npm library for Compendia - by mrmikeo
