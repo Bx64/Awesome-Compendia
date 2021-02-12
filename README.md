@@ -14,8 +14,8 @@
 ## Contents
 
 - [Coin](#Coin)
-    - [Summary](#Coin##Summary)
-    - [Exchanges](#Coin##Exchanges)
+    - Summary
+    - Exchanges
        - BIND.exchange
        - Switcheo
        - Altilly
