@@ -5,7 +5,7 @@ This is a proposal to the community and the validators that support Compendia.
 
 - The Compendia Community Fund (CCF) is a fund that is run by the Compendia community members. It can be seen as supplemental to the core development of the Compendia ecosystem and shall support the ideas and projects of community members to help promote the advancement of the wider ecosystem. 
 
-- It aims (1) to provide a possibility to those Compendia community members that would like to support the ecosystem with contributions of BIND tokens for community purposes and (2) to provide a place for community developers to request funding, for projects to develop tools, software or hardware which helps to improve, support and add value to the ecosystem.
+- It aims (1) to provide a possibility to those Compendia community members that would like to support the ecosystem with contributions of BIND coins for community purposes and (2) to provide a place for community developers to request funding, for projects to develop tools, software or hardware which helps to improve, support and add value to the ecosystem.
 
 - The CCF will be run by Compendia community members - being a validator is not required.
 
@@ -35,7 +35,7 @@ This is a proposal to the community and the validators that support Compendia.
 
 The CCF has two main purposes: 
 
-- First, is to provide a possibility to those Compendia community members that would like to support the Ecosystem with contributions of BIND tokens for community purposes. Funds will be held in a multi-signature address using the ARK desktop wallet feature.
+- First, is to provide a possibility to those Compendia community members that would like to support the Ecosystem with contributions of BIND coins for community purposes. Funds will be held in a multi-signature address using the ARK desktop wallet feature.
 
 - Second, to provide a place for community developers to request funding, for projects to develop tools, software or hardware which helps to improve, support and add value to the ecosystem.
 
@@ -69,7 +69,7 @@ The CCF has two main purposes:
 
 ### How will the Compendia Team be involved in the Fund?
 
-- As the CCF is completely separate from the Compendia Team. They will not be a part of the management or final decision making of the CCF. Nor will they have access to, or own a share of the collected BIND held by the CCF.
+- As the CCF is completely separate from the Compendia Team, they will not be a part of the management or final decision making of the CCF. Nor will they have access to, or own a share of the collected BIND held by the CCF.
 
 - However, they can provide valuable input on projects and the overall direction of Compendia development. So the idea is to create an Advisory Board with 2 members of the Compendia team. These members can provide recommendations and/or input on projects and proposals. It would be positive to have one member with a development/coding background for any technical questions on the projects.  Also to ensure no duplication of effort by the community developers and Compendia team.
 
@@ -155,7 +155,7 @@ The CCF has two main purposes:
 
 The project proposer submits a proposal covering the phases defined below.  A template/ webform will be provided.
 
-- Phase 0 – Requirements Gathering/Terms of Reference (TOR)
+- Phase 0 – Requirements Gathering/[Terms of Reference](https://en.wikipedia.org/wiki/Terms_of_reference) (TOR)
 - Phase 1 - Cost-Benefit Analysis
 - Phase 2 – Proof of Concept
 - Phase 3 – Detailed Design
@@ -199,7 +199,7 @@ PP’s will need to provide updates at each stage.
 
 - Marketing/Banners/Tweets et cetera to support launch of CCF
 
-- A CCF Logo
+- A CCF logo
 
 - Website design, requirements are:
     - Make website
