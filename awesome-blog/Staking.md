@@ -50,7 +50,7 @@ The key difference is that staked coins are locked for a fixed period, either 3,
 
 At the time of writing, ß11,816,021 is currently locked into staking, given the current BIND supply (i.e nOS to BIND) ß112,894,676, around 10% of all BIND in circulation is locked out of supply for the staking periods highlighted earlier. With the current staked coins, it would take just over 6 months for inflation to offset the monthly forging reward increase.
 
-## Fee removal model.
+## Fee removal model
 Compendia also offer another deflationary measure through a sophisticated fee removal model.
 
 #### The [fee collection and removal model](https://docs.compendia.org/guide/economy.html#fee-removal-model) works as follows:
