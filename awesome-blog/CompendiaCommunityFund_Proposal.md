@@ -12,8 +12,8 @@ This is a proposal to the community and the validators that support Compendia.
 - The CCF will not run an active validator.  Due to the way the Compendia Community Fund is set up, taking up a valuable validator slot is not required.  
 
 - The CCF can be funded by:
-    - One-time donations (philanthropy)
-    - Regular % shared by community validators
+    - One-time donations (philanthropy);
+    - Regular % shared by community validators;
     - Funding raising events, community sweepstakes and other possible tournaments.
     
 - Proposals for funding will be shortlisted using the following method. People submit their proposals using a “Standard Approach” or “Fast Track Approach” template found at the end of this document.
@@ -59,7 +59,7 @@ The CCF has two main purposes:
 
 - Any proposed changes to this paper, project templates or the overall running structure of the CCF will be discussed with the wider community (voted if required), on agreement any changes will be implemented promptly.
 
-### Board Member Elections/Voting:
+### Board member elections/voting:
 
 - Each board member will be allocated a unique public address which will be published when the voting begins.
 
@@ -69,13 +69,13 @@ The CCF has two main purposes:
 
 ### How will the Compendia Team be involved in the Fund?
 
-- As the CCF is completely separate from the Compendia Team, they will not be a part of the management or final decision making of the CCF. Nor will they have access to, or own a share of the collected BIND held by the CCF.
+- As the CCF is completely separate from the Compendia team, they will not be a part of the management or final decision making of the CCF. Nor will they have access to, or own a share of the collected BIND held by the CCF.
 
 - However, they can provide valuable input on projects and the overall direction of Compendia development. So the idea is to create an Advisory Board with 2 members of the Compendia team. These members can provide recommendations and/or input on projects and proposals. It would be positive to have one member with a development/coding background for any technical questions on the projects.  Also to ensure no duplication of effort by the community developers and Compendia team.
 
 ### How will the founding members be involved in the Fund?
 
-- Both co-founders cryptomaniac & bfx will not be up for election to the board during the first period of 6 months. Instead, they will act as impartial advisors to the board members when recommendations or advice is needed for the CCF's direction or decisions. 
+- Both co-founders [cryptomaniac](https://bindscan.io/wallets/cryptomaniac) & [bfx](https://bindscan.io/wallets/bfx) will not be up for election to the board during the first period of 6 months. Instead, they will act as impartial advisors to the board members when recommendations or advice is needed for the CCF's direction or decisions. 
 
 ### Will the CCF run an active Validator?
 
@@ -88,13 +88,13 @@ The CCF has two main purposes:
 - The CCF will not secure funding through running an active validator but may use unallocated BIND to vote for a community validator, helping to maintain/increase funding available to CCF projects.
 
 - The CCF can be funded by:
-    - One-time donations (Philanthropy)
-    - Regular % shared by community validators
+    - One-time donations (philanthropy);
+    - Regular % shared by community validators;
     - Funding raising events, community sweepstakes and other possible tournaments.
 
 ### How will the collected funds of the CCF be secured?
 
-- The funds will be stored in a multi-signature wallet or by an escrow, depending on the technical possibilities. It needs to be guaranteed that the funds cannot be misused by any person or group of persons.  Looking at one or possibly two multisig escrow accounts.
+- The funds will be stored in a multi-signature wallet or by an escrow, depending on the technical possibilities. It needs to be guaranteed that the funds cannot be misused by any person or group of persons. Looking at one or possibly two multisig escrow accounts.
 
 - Any/all direct donations/or delegates community fund shares should be paid directly to Escrow.
 
@@ -115,7 +115,7 @@ The CCF has two main purposes:
 
     - Who requires the funding?
     - What type of project is it?
-    - Description of the Project.
+    - Description of the project.
     - Timeline of the project.
     - Required Funding.
     - How the project proposer plans to use funds, for e.g.:
@@ -124,15 +124,15 @@ The CCF has two main purposes:
         - 15% materials/software licences
         - 10% marketing.
 
-- Once submitted, CCF Board Members and Compendia Advisory board members will review the proposal to ensure it is clearly defined, well-structured, and thoroughly thought through.  The CCF board will either accept or reject the proposal.  If rejected the reasons will be given and the project proposer will be given two more opportunities to resubmit before the proposal is moved to archived status.
+- Once submitted, CCF board members and Compendia advisory board members will review the proposal to ensure it is clearly defined, well-structured, and thoroughly thought through.  The CCF board will either accept or reject the proposal.  If rejected the reasons will be given and the project proposer will be given two more opportunities to resubmit before the proposal is moved to archived status.
 
-- The CCF and the Compendia Advisory board members will not submit any project directly.  But can choose a community sponsor to represent their proposal.
+- The CCF and the Compendia advisory board members will not submit any project directly.  But can choose a community sponsor to represent their proposal.
 
 - Any project that offers the potential to make a profit will be considered on a case by case basis. To assist with future funding, a proposer may choose to provide a proportion of the profit to the CCF.
 
 - The proposal will then be added to a project portal (yet to be defined), possibly a specific webpage/site set up to support the posting of Proposals.
 
-- Once a project has been accepted the CCF Board Members and the Project Proposer (PP) will agree on a set of measures of success/milestones before formal approval of the proposal is given.
+- Once a project has been accepted the CCF board members and the Project Proposer (PP) will agree on a set of measures of success/milestones before formal approval of the proposal is given.
 
 - When approval is confirmed and funding agreed, the PP will be required to submit a forecasted expenditure/burn rate. Funding will be provided on either an agreed milestone basis or a lump sum on completion/validation of the delivered outcome.
 
@@ -202,25 +202,26 @@ PP’s will need to provide updates at each stage.
 - A CCF logo
 
 - Website design, requirements are:
-    - Make website
-    - Make voter portal
-    - Forms created for submission of projects
-        - Small + medium/large
-        - Ideally part of the site, rather than google forms
-    - ACF can be used as example
+    - Make website;
+    - Make voter portal;
+    - Forms created for submission of projects:
+        - Small + medium/large;
+        - Ideally part of the site, rather than google forms.
+    - ACF can be used as example:
         - https://arkcommunity.fund
         - https://github.com/arkcommunityfund
-    - Domain name (unrelated to any validators or community members)
+    - Domain name (unrelated to any validators or community members):
         - Who owns? Possible to use CCF-accounts in hosting that are shared by board members and passwords changed each rotation?
         - Subdomain provided by Compendia?
 
-- Multisig wallet to hold funds
-    - ARK desktop wallet using multisig-server
-    - Check if keys can be invalidated & added upon member change
-    - Check whether KYC is requirement
-    - Check liabilities regarding multisig key holders
+- Multisig wallet to hold funds:
+    - ARK desktop wallet using multisig-server;
+    - Check if keys can be invalidated & added upon member change;
+    - Check whether KYC is requirement;
+    - Check liabilities regarding multisig key holders.
 
 - Suggestion from Dean to consider: 
-    - Support CCF column/flag on validator site
+    - Support CCF column/flag on validator site.
 
-- Board Elections - The logic/governance around voting for board members
+- Board elections:
+    - The logic/governance around voting for board members.

@@ -25,10 +25,10 @@ When staking, your BIND will go through 5 different phases:
 - Redeemed: if your staked coins have been released, you can redeem them back to your wallet. After ~14 days, you have full control of your staked coins again.
 - In the future, you'll be able to redeem your stake before the release period at the costs of having a portion of the deposit slashed.
 
-## Securing the Network
+## Securing the network
 DPoS delegates/validators secure the blockchain through forging blocks, and in the case of Compendia, there are 47 validators (rather than the 51 in ARK) and each active validator forges one block every 6 seconds. Therefore 47 new blocks are forged every 4.7 minutes (6 * 47 = 282 seconds = 4.7 minutes). In a similar way to proof-of-work networks such as Bitcoin, a block contains transactions and the validator that forges them receives a proportion of the transaction fee (described in the Fee Removal Model further below)
 
-## Supply Inflation
+## Supply inflation
 DPoS chains typically have fixed inflation based over several years, this is to help control the coin supply in circulation. Inflation comes from Delegate/Validators forging new blocks as described above.  The effect of validators forging new blocks increases the supply by either ß3.9 per block (if ranked 6th to 47th), or ß4.84 per block (if ranked 1st to 5th).
 
 #### The Compendia blockchain produces around ß1,753,200 per month
@@ -42,10 +42,10 @@ Block rewards are controlled through an annual milestone which is fixed in the c
 |  7-9  |  0.975          |  1.21           |  1     |
 
 
-#### Deflationary Effects
+#### Deflationary effects
 In general DPoS blockchains allow voters to vote, allocating their wallet weight to a specific delegate/validator and receiving rewards commensurate to weight.  This helps control inflation as the coins are out of supply when being used to vote, but the coins are not locked for a fixed time, a voter can move some or all funds at any time.
 
-#### What differentiates Compendia?
+#### What differentiates Compendia from other DPoS networks?
 The key difference is that staked coins are locked for a fixed period, either 3, 6, or 12 months (as described above).  The coins are effectively locked out of supply, by incentivising voters to lock their coins for the maximum period of 12 months.  This helps offset the increase in supply through forging rewards.
 
 At the time of writing, ß11,816,021 is currently locked into staking, given the current BIND supply (i.e nOS to BIND) ß112,894,676, around 10% of all BIND in circulation is locked out of supply for the staking periods highlighted earlier. With the current staked coins, it would take just over 6 months for inflation to offset the monthly forging reward increase.
@@ -63,4 +63,4 @@ This fee system helps with combating possible shifts in Vote Power going from vo
 ## Summary
 The Compendia Team have a clear understanding of the tokenomics of a blockchain, lessons have been learned from earlier DPoS implementations and new strategies have been deployed to ensure a fairer, more balanced approach to DPoS tokenomics.
 
-#### If you have enjoyed reading this blog please consider voting for validators BFX & Cryptomanic. Thank you.
+#### If you have enjoyed reading this blog please consider voting for validators [bfx](https://bindscan.io/wallets/bfx) & [cryptomaniac](https://bindscan.io/wallets/cryptomaniac). Thank you.

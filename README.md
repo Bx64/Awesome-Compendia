@@ -29,7 +29,6 @@
     - Wallet
         
 - [Exchanges](#Exchanges)
-    - Altilly
     - BIND.exchange
     - Switcheo
     
@@ -167,12 +166,6 @@
 * [BIND.exchange](https://bind.exchange) - Uniswap portal for wBIND/ETH pool.
 * [Switcheo](https://switcheo.exchange/) - Switcheo Exchange paired with ETH.
     * [wBIND/ETH](https://switcheo.exchange/markets/wBIND_ETH) - wBIND/ETH trading pair.
-* [Altilly (suspended due to hack)](https://altilly.com/) - Altilly Exchange paired with BTC, ETH, ARK & XQR.
-    * [Asset information](https://www.altilly.com/asset/BIND) - General information about BIND and it's trading pairs.
-        * [BIND/BTC](https://www.altilly.com/market/BIND_BTC) - BIND/BTC trading pair. Suspended due to hack.
-        * [BIND/ETH](https://www.altilly.com/market/BIND_ETH) - BIND/ETH trading pair. Suspended due to hack.
-        * [BIND/ARK](https://www.altilly.com/market/BIND_ARK) - BIND/ARK trading pair. Suspended due to hack.
-        * [BIND/XQR](https://www.altilly.com/market/BIND_XQR) - BIND/XQR trading pair. Suspended due to hack.
 
 ## Mainnet API Documentation
 
