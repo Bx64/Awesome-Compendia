@@ -19,6 +19,13 @@
     - Mainnet
     - Testnet
 
+- [Compendia Databases](#compendia-databases)
+    - Dapp.page
+    - Oracle explorer
+    - Savant
+    - Maestro
+    - Concierge
+
 - [Compendia Documentation](#compendia-documentation)
     - Bug Bounty & Security Reward Program
     - Economy
@@ -90,6 +97,7 @@
 *Official Compendia Websites. Listed first due to relevance.*
 
 * [Compendia API Documentation](https://docs.compendia.org/api/) - Compendia API Documentation - API's expose resources and data provided by the Core Server (Node).
+* [Compendia Decentralized Finance](https://bind.fi) - Decentralized Finance feature webpage for Compendia.
 * [Compendia Documentation](https://docs.compendia.org/) - Compendia Documentation Suite.
 * [Compendia Telegram - Announcements](https://t.me/CompendiaAnn) - Compendia Telegram Announcements Channel.
 * [Compendia Telegram - Chat](https://t.me/Compendia) - Compendia Telegram Chat Channel.
@@ -118,6 +126,16 @@
 * [Compendia Testnet API](https://api.nos.dev/api/v2) - Compendia Testnet API - API's expose different resources and data provided by the Core Server (Node).
 * [Compendia Testnet Block Explorer](https://explorer.nos.dev/) - Testnet Explorer - Viewing tool for Transactions, Blocks, Validators and Wallet Information.
 * [Compendia Testnet Wallet](https://wallet.nos.dev/) - Testnet Web Wallet for managing your BIND.
+
+## Compendia Databases
+
+*Official usecase of Compendia: the Wikipedia of databases.*
+
+* [Dapp.page](https://dapp.page) - Official decentralized apps feature webpage.
+    * [Concierge](https://compendia.org/blog/introducing-concierge) - Official database oracle.
+    * [Maestro](https://compendia.org/blog/introducing-maestro) - Official database admin dashboard.
+    * [Oracle](https://compendia.org/blog/introducing-oracle-explorer) - Official database explorer.
+    * [Savant](https://compendia.org/blog/introducing-savant) - Official oracle reader API.
 
 ## Compendia Documentation
 
@@ -252,6 +270,9 @@
     * [Universal Delegate Monitor - tortoise_emperor](https://github.com/alessiodf/universal-delegate-monitor-server) - broadcasts delegate statistics over WebSocket protocol, created by tortoise_emperor.
 * Guides
     * [A Node Setup Guide - bindie](https://gist.github.com/BindieBot/74187ee9dbc8323808f66ec2ca090868) - A guide to help validators setup a node for the Compendia mainnet network.
+* Products & stores
+    * [Relay @ Home](https://friendsoflittleyus.nl/relayhome) - Relay@Home shop, created by friendsoflittleyus.
+    * [Friends of Little Yus Merchandise](https://shop.friendsoflittleyus.nl) - Merchandise store, created by friendsoflittleyus.
 * Reward Programs
     * [BIND.farm - bindfarm](https://bind.farm) - Pool that pays out liquidity providers for ETH/wBIND pool.
     * [BIND faucet - biz_classic](https://compendia.classicdelegate.biz/faucet) - Faucet that distributes BIND to users.
@@ -276,5 +297,5 @@
 * Websites
     * [Compendia Directory](https://compendia.xyz) - Compendia Directory with useful information about the project, created by arktoshi.
     * [Compendia Explorer - Mainnet](https://compendia.itsadelegatetoo.com/#/) - Mainnet Compendia explorer based on ARK, created by itsanametoo.
-    * [Compendia Tools Website](https://compendia.arbarodelegate.eu/tools) - Compendia tools website - created by arbaro. 
+    * [Compendia Tools Website](https://compendia.arbarodelegate.eu/tools) - Compendia tools website, created by arbaro. 
     * [Compendia Validators Info](https://compendiavalidators.com) - Compendia Validator website, created by the_bobbie_bunch.
