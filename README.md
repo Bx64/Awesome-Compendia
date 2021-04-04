@@ -23,7 +23,7 @@
     - Dapp.page
         - Concierge
         - Maestro
-        - Oracle explorer
+        - Oracle
         - Savant
 
 - [Compendia Documentation](#compendia-documentation)
