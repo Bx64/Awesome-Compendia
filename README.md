@@ -21,10 +21,10 @@
 
 - [Compendia Databases](#compendia-databases)
     - Dapp.page
-    - Oracle explorer
-    - Savant
-    - Maestro
-    - Concierge
+        - Concierge
+        - Maestro
+        - Oracle explorer
+        - Savant
 
 - [Compendia Documentation](#compendia-documentation)
     - Bug Bounty & Security Reward Program
@@ -65,6 +65,9 @@
         - Universal Delegate Monitor - by tortoise_emperor
     - Guides
         - A Node Setup Guide - bindie
+    - Products & stores
+        - Relay @ Home
+        - Friends of Little Yus Merchandise
     - Reward Calculators
         - Reward Calculator - by bfx
         - Reward Calculator - by cactus1549
