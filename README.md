@@ -284,7 +284,7 @@
     * [Reward Calculator - bfx](https://shorturl.at/hlJNO) - Daily BIND reward calculator, created by bfx.
     * [Reward Calculator - cactus1549](https://compendiacalculator.online) - Daily BIND reward calculator, created by cactus1549.
     * [Reward Calculator - dutch_pool](https://calculator.dutchpool.io/compendia) - Daily BIND reward calculator, created by dutch_pool team.
-    * [Reward Calculator - maryo](https://bit.ly/3ht3CqW) - Daily BIND reward calculator, created by maryo.
+    * [Reward Calculator - maryo](https://bit.ly/2QCLGRT) - Daily BIND reward calculator, created by maryo.
     * [Reward Calculator - the_bobbie_bunch](https://www.thebobbiebunch.nl/#calculator) - Daily BIND reward calculator, created by the_bobbie_bunch.
     * [Reward Comparison Spreadsheet - bfx](https://bit.ly/3iYOOAG) - Daily BIND reward comparison spreadsheet, created by bfx.
 * Telegram Bots
