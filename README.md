@@ -64,10 +64,10 @@
         - Round Monitor - by tortoise_emperor
         - Universal Delegate Monitor - by tortoise_emperor
     - Guides
-        - A Node Setup Guide - bindie
+        - A Node Setup Guide - by bindie
     - Products & stores
-        - Relay @ Home
-        - Friends of Little Yus Merchandise
+        - Relay @ Home - by friendsoflittleyus
+        - Friends of Little Yus Merchandise - by friendsoflittleyus
     - Reward Calculators
         - Reward Calculator - by bfx
         - Reward Calculator - by cactus1549
@@ -85,13 +85,12 @@
     - True Block Weight Payout Scripts
         - core2_tbw - by goose
         - cryptology_tbw - by cryptology
-    - Validator Stake Weight Change
-        - Staking Weight Change - by arbaro
     - Videos
         - Crypto Podcasts (YouTube) - by korfanty
     - Websites
         - Compendia Directory - by arktoshi
         - Compendia Explorer Mainnet (ARK-based) - by itsanametoo
+        - Compendia Staking Weight Change - by arbaro
         - Compendia Tools - by arbaro
         - Compendia Validators Info - by the_bobbie_bunch
 
@@ -293,12 +292,11 @@
 * True Block Weight Payout Scripts
     * [core2_tbw - goose](https://github.com/galperins4/core2_tbw) - Automated payout script for validators (free to use), created by goose.
     * [cryptology_tbw - cryptology](https://github.com/wownmedia/cryptology_tbw) - Automated payout script for validators (1% fee), created by cryptology.
-* Validator Stake Weight Change
-    * [Staking Weight Change](https://compendia.arbarodelegate.eu/) - A tool to display changes in validator staking weight, created by arbaro.
 * Videos
     * [Crypto Podcasts (YouTube)](https://www.youtube.com/channel/UCOtkmaTWYgXM8q22pYDQbjg) - Monthly crypto podcasts and Compendia Updates, created by korfanty.
 * Websites
     * [Compendia Directory](https://compendia.xyz) - Compendia Directory with useful information about the project, created by arktoshi.
     * [Compendia Explorer - Mainnet](https://compendia.itsadelegatetoo.com/#/) - Mainnet Compendia explorer based on ARK, created by itsanametoo.
+    * [Compendia Staking Weight Change](https://compendia.arbarodelegate.eu/) - A tool to display changes in validator staking weight, created by arbaro.
     * [Compendia Tools Website](https://compendia.arbarodelegate.eu/tools) - Compendia tools website, created by arbaro. 
     * [Compendia Validators Info](https://compendiavalidators.com) - Compendia Validator website, created by the_bobbie_bunch.
