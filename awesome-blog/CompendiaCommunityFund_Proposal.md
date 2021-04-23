@@ -20,7 +20,7 @@ This is a proposal to the community and the validators that support Compendia.
 
 - Several tasks are needed to be completed for the CCF to properly launch. It is the duty of the first board to realise these tasks. The election for this first term will run through the main Compendia Telegram channel.
 
-- Both co-founders [cryptomaniac](https://bindscan.io/wallets/cryptomaniac) & [bfx](https://bindscan.io/wallets/bfx) will not be up for election to the board during the first period of 6 months. Instead, they will act as impartial advisors to the board members when recommendations or advice is needed for the CCF's direction or decisions. 
+- Both co-founders [cryptomaniac](https://bindscan.io/wallets/cryptomaniac) & [bfx](https://bindscan.io/wallets/bfx) will not be up for election to the board during the first period of 6 months. Instead, [bfx](https://bindscan.io/wallets/bfx) will act as impartial advisor to the board members when recommendations or advice is needed for the CCF's direction or decisions. 
 
 ***
 
@@ -75,7 +75,7 @@ The CCF has two main purposes:
 
 ### How will the founding members be involved in the Fund?
 
-- Both co-founders [cryptomaniac](https://bindscan.io/wallets/cryptomaniac) & [bfx](https://bindscan.io/wallets/bfx) will not be up for election to the board during the first period of 6 months. Instead, they will act as impartial advisors to the board members when recommendations or advice is needed for the CCF's direction or decisions. 
+- Both co-founders [cryptomaniac](https://bindscan.io/wallets/cryptomaniac) & [bfx](https://bindscan.io/wallets/bfx) will not be up for election to the board during the first period of 6 months. Instead, [bfx](https://bindscan.io/wallets/bfx) will act as impartial advisor to the board members when recommendations or advice is needed for the CCF's direction or decisions. 
 
 ### Will the CCF run an active Validator?
 

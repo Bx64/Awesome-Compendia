@@ -1,5 +1,5 @@
 # Awesome Compendia
- A publicly curated list of awesome Compendia websites, resources, documentation, tools, software, validator & community efforts. Started by Compendia validators [bfx](https://bindscan.io/wallets/cT6Mi5r2qz3GSNkGFjunfM8DLdE9duxRGx) & [cryptomaniac](https://bindscan.io/wallets/cnKNhexcrt8piotBQZfU3URFyrswTtJjAx). Forked from & inspired by [awesome-go](https://github.com/avelino/awesome-go).
+ A publicly curated list of awesome Compendia websites, resources, documentation, tools, software, validator & community efforts. Started by Compendia validators [bfx](https://bindscan.io/wallets/bfx) & [cryptomaniac](https://bindscan.io/wallets/cryptomaniac) and now maintained solely by validator [bfx](https://bindscan.io/wallets/bfx). Forked from & inspired by [awesome-go](https://github.com/avelino/awesome-go).
  
  ** Disclaimer - All of the resources available below are publicly available, we cannot guarantee the accuracy or efficacy of the resources listed, and are not liable for any submitted content.
 
