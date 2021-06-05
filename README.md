@@ -65,6 +65,7 @@
         - Universal Delegate Monitor - by tortoise_emperor
     - Guides
         - A Node Setup Guide - by bindie
+        - BIND Video Tutorials - by adz
     - Products & stores
         - Relay @ Home - by friendsoflittleyus
         - Friends of Little Yus Merchandise - by friendsoflittleyus
@@ -272,6 +273,7 @@
     * [Universal Delegate Monitor - tortoise_emperor](https://github.com/alessiodf/universal-delegate-monitor-server) - broadcasts delegate statistics over WebSocket protocol, created by tortoise_emperor.
 * Guides
     * [A Node Setup Guide - bindie](https://gist.github.com/BindieBot/74187ee9dbc8323808f66ec2ca090868) - A guide to help validators setup a node for the Compendia mainnet network.
+    * [BIND Video Tutorials - adz](https://linktr.ee/adzvalidator) - Several video tutorials regarding aspects of the BIND network.
 * Products & stores
     * [Relay @ Home](https://friendsoflittleyus.nl/relayhome) - Relay@Home shop, created by friendsoflittleyus.
     * [Friends of Little Yus Merchandise](https://shop.friendsoflittleyus.nl) - Merchandise store, created by friendsoflittleyus.
