@@ -15,7 +15,7 @@ To set this list apart from and complement the excellent [Compendia Docs](https:
 - Items containing Compendia/BIND in link or title that are not operated by the team, MUST be classified as unofficial;
 - Descriptions should be clear, concise, and non-promotional;
 - Descriptions should follow the link, on the same line and end with a punctuation mark;
-- At least 3 items are needed to create a new category;
+- At least 3 items are needed to create a new category, and at least 2 to create a subcategory;
 - The package or project had to be maintained under **open source license** ( *we make a brief review of the code before the link enters the list* ), [see list of allowed licenses](https://opensource.org/licenses/alphabetical);
 - A template for your pull request can be found [here](https://github.com/Bx64/awesome-compendia/blob/master/.github/PULL_REQUEST_TEMPLATE.md), this is a required format.
 
