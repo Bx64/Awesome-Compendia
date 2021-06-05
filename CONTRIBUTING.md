@@ -1,4 +1,4 @@
-This resource was created by the Compendia validators [bfx](https://bindscan.io/wallets/bfx) (Bx64) & [cryptomaniac](https://bindscan.io/wallets/cryptomaniac) (cryptomaniac79), and is now solely maintained by [bfx](https://bindscan.io/wallets/cT6Mi5r2qz3GSNkGFjunfM8DLdE9duxRGx), for the community - and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/Bx64/awesome-compendia/graphs/contributors).
+This resource was created by the Compendia validators [bfx](https://bindscan.io/wallets/bfx) (@Bx64) & [cryptomaniac](https://bindscan.io/wallets/cryptomaniac) (@cryptomaniac79), and is now solely maintained by [bfx](https://bindscan.io/wallets/cT6Mi5r2qz3GSNkGFjunfM8DLdE9duxRGx), for the community - and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/Bx64/awesome-compendia/graphs/contributors).
 
 Join us on [Telegram](https://t.me/compendia).
 
