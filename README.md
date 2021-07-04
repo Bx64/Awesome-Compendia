@@ -66,6 +66,8 @@
     - Guides
         - A Node Setup Guide - by bindie
         - BIND Video Tutorials - by adz
+    - Podcasts
+        - Crypto Podcasts (YouTube) - by korfanty
     - Products & stores
         - Relay @ Home - by friendsoflittleyus
         - Friends of Little Yus Merchandise - by friendsoflittleyus
@@ -86,8 +88,6 @@
     - True Block Weight Payout Scripts
         - core2_tbw - by goose
         - cryptology_tbw - by cryptology
-    - Videos
-        - Crypto Podcasts (YouTube) - by korfanty
     - Websites
         - Compendia Directory - by arktoshi
         - Compendia Explorer Mainnet (ARK-based) - by itsanametoo
@@ -274,6 +274,8 @@
 * Guides
     * [A Node Setup Guide - bindie](https://gist.github.com/BindieBot/74187ee9dbc8323808f66ec2ca090868) - A guide to help validators setup a node for the Compendia mainnet network.
     * [BIND Video Tutorials - adz](https://linktr.ee/adzvalidator) - Several video tutorials regarding aspects of the BIND network.
+* Podcasts
+    * [Crypto Podcasts (YouTube)](https://www.youtube.com/channel/UCOtkmaTWYgXM8q22pYDQbjg) - Monthly crypto podcasts and Compendia Updates, created by korfanty.
 * Products & stores
     * [Relay @ Home](https://friendsoflittleyus.nl/relayhome) - Relay@Home shop, created by friendsoflittleyus.
     * [Friends of Little Yus Merchandise](https://shop.friendsoflittleyus.nl) - Merchandise store, created by friendsoflittleyus.
@@ -294,8 +296,6 @@
 * True Block Weight Payout Scripts
     * [core2_tbw - goose](https://github.com/galperins4/core2_tbw) - Automated payout script for validators (free to use), created by goose.
     * [cryptology_tbw - cryptology](https://github.com/wownmedia/cryptology_tbw) - Automated payout script for validators (1% fee), created by cryptology.
-* Videos
-    * [Crypto Podcasts (YouTube)](https://www.youtube.com/channel/UCOtkmaTWYgXM8q22pYDQbjg) - Monthly crypto podcasts and Compendia Updates, created by korfanty.
 * Websites
     * [Compendia Directory](https://compendia.xyz) - Compendia Directory with useful information about the project, created by arktoshi.
     * [Compendia Explorer - Mainnet](https://compendia.itsadelegatetoo.com/#/) - Mainnet Compendia explorer based on ARK, created by itsanametoo.
