@@ -120,7 +120,7 @@
 
 *Official Mainnet Resources.*
 
-* [Compendia Mainnet API](TBC#########) - Mainnet API - API's expose different resources and data provided by the Core Server (Node).
+* [Compendia Mainnet API](https://api.compendia.org/api/v2/) - Mainnet API - API's expose different resources and data provided by the Core Server (Node).
 * [Compendia Mainnet Block Explorer](https://bindscan.io/) - Mainnet Explorer - Viewing tool for Transactions, Blocks, Validators and Wallet Information.
 * [Compendia Mainnet Wallet](https://wallet.compendia.org/) - Mainnet Web Wallet for managing your BIND.
 
