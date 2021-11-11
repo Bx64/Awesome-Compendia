@@ -34,7 +34,12 @@
     - Validators
     - Token Swap
     - Wallet
-        
+
+- [DeFi Products](#DeFi-products)
+    - Bind.fi
+    - Integrin.fi
+    - wBIND
+
 - [Exchanges](#Exchanges)
     - BIND.exchange
     - Switcheo
@@ -179,6 +184,14 @@
         * [Staking](https://docs.compendia.org/guide/wallet.html#stake) - Staking.
         * [Transfer](https://docs.compendia.org/guide/wallet.html#transfer) - Transfer.
         * [Voting](https://docs.compendia.org/guide/wallet.html#vote) - Voting.
+
+## DeFi Products
+
+*Decentralized Finance products built by, or in collaboration with, Compendia.*
+
+* [Bind Finance](https://bind.fi) - Merges the value of Compendia Oracles with decentralized finance.
+* [Integrin Finance](https://integrin.finance/) - Universal ERC20-wrapper for any coin, powered by ITG DAO token.
+* [Wrapped BIND](https://compendia.org/blog/defi-launch) - ERC20-token for Compendia (BIND).
 
 ## Exchanges
 
