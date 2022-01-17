@@ -140,10 +140,10 @@
 *Official usecase of Compendia: the Wikipedia of databases.*
 
 * [Dapp.page](https://dapp.page) - Official decentralized apps feature webpage.
-    * [Concierge](https://compendia.org/blog/introducing-concierge) - Official database oracle | [Github](https://github.com/compendia/concierge).
-    * [Maestro](https://compendia.org/blog/introducing-maestro) - Official database admin dashboard | [Github](https://github.com/compendia/maestro).
-    * [Oracle](https://compendia.org/blog/introducing-oracle-explorer) - Official database explorer.
-    * [Savant](https://compendia.org/blog/introducing-savant) - Official oracle reader API | [Github](https://github.com/compendia/savant).
+    * [Concierge](https://github.com/compendia/concierge) - Official database oracle | [Blog entry](https://compendia.org/blog/introducing-concierge).
+    * [Maestro](http://maestro.compendia.org/) - Official database admin dashboard | [Blog entry](https://compendia.org/blog/introducing-maestro).
+    * [Oracle](https://db-testnet.compendia.org/) - Official testnet database explorer | [Blog entry](https://compendia.org/blog/introducing-oracle-explorer).
+    * [Savant](https://github.com/compendia/savant) - Official oracle reader API | [Blog entry](https://compendia.org/blog/introducing-savant).
 
 ## Compendia Documentation
 
