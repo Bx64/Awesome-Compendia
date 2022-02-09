@@ -57,6 +57,11 @@
     - Votes
     - Wallets
 
+- [Social Media](#social-media)
+    - Discord
+    - Telegram
+    - Twitter
+
 - [Tools (Community)](#tools-community)
     - Compendia JS - Javascript library for sending transactions - by mrmikeo
     - Compendia Crypto - Crypto npm library for Compendia - by mrmikeo
@@ -107,9 +112,6 @@
 * [Compendia API Documentation](https://docs.compendia.org/api/) - Compendia API Documentation - API's expose resources and data provided by the Core Server (Node).
 * [Compendia Decentralized Finance](https://bind.fi) - Decentralized Finance feature webpage for Compendia.
 * [Compendia Documentation](https://docs.compendia.org/) - Compendia Documentation Suite.
-* [Compendia Telegram - Announcements](https://t.me/CompendiaAnn) - Compendia Telegram Announcements Channel.
-* [Compendia Telegram - Chat](https://t.me/Compendia) - Compendia Telegram Chat Channel.
-* [Compendia Twitter](https://twitter.com/Compendia_org) - Compendia Twitter Account.
 * [Compendia Website](https://compendia.org/) - Official Compendia Website.
     * [Compendia Blog](https://compendia.org/blog/) - Official Compendia blog.
 * [nOS Chat](https://nos.chat/) - nOS-related communications website.
@@ -266,6 +268,15 @@
         * [List Top Wallets](https://docs.compendia.org/api/wallets.html#list-all-top-wallets) - List all top wallets.
         * [Retrieve A Wallet](https://docs.compendia.org/api/wallets.html#retrieve-a-wallet) - Retrieve a wallet.
         * [Search All Wallets](https://docs.compendia.org/api/wallets.html#search-all-wallets) - Search all wallets.
+
+## Social Media
+
+*Official social media channels.*
+
+* [Discord](https://discord.gg/SJWMQaFVWe) - Official Discord server.
+* [Telegram](https://t.me/compendia) - Official Telegram Chat.
+* [Telegram Announcements](https://t.me/CompendiaAnn) - Official Telegram Announcements.
+* [Twitter](https://twitter.com/compendiaorg) - Official Twitter account.
 
 ## Tools (Community)
 
